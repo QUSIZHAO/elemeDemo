@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">elemeDemo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Name:%1$s</string>
+    <string name="age">Age:%1$d</string>
+    <string name="goods_list_tip"> &lt;font color="#515a66" size ="13"&gt; &lt;strong&gt;&lt;big&gt;热销&lt;/big&gt;&lt;/strong&gt; &lt;/font&gt; &lt;&gt; &lt;font color="#515a66" size ="9"&gt;大家喜欢吃，才叫真好吃&lt;/font&gt; </string>
+    <string name="loading">Loading...</string>
+    <string name="sousuo">搜索</string>
+    <string name="comment_null">评论空空如也</string>
+    <string name="shop">商家推荐</string>
+    <string name="haobao">汉堡</string>
+    <string name="add_pang">好吃的食物，增肥神器，有求必应</string>
+    <string name="_100000000888_100">月售100000000888 好评率100%</string>
+    <string name="_18_88">¥18.88</string>
+    <string name="_88">月售88</string>
+    <string name="_99">¥99</string>
+    <string name="show">公告</string>
+    <string name="kfc">肯德基(龙漕路店)</string>
+    <string name="dazhe">优惠</string>
+    <string name="n_021_300059">感谢您对本店的支持与鼓励，我们会更用心的去做更好的美食来感谢您的支持，肯德基欢迎您再次光临！ 欢迎拨打我们的消费热线：021－300059</string>
+    <string name="_6">¥6</string>
+    <string name="no_menkan">无门槛</string>
+    <string name="super_vip">超级会员红包</string>
+    <string name="linqu">领取</string>
+    <string name="youhui">6个优惠</string>
+    <string name="self">保险</string>
+</resources>
